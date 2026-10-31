@@ -1,0 +1,13 @@
+order_id,customer_name,region,order_date,quantity,unit_price,status
+1001,Asha Rao,South,2026-01-05,3,250.0,Delivered
+1002,Vikram Shah,West,2026-01-05,1,99.5,Delivered
+1003,Priya Nair,South,2026-01-06,2,,Delivered
+1004,Rahul Dev,North,2026-01-06,5,45.0,Pending
+1005,Asha Rao,South,2026-01-05,3,250.0,Delivered
+1006,Meera Iyer,East,2026-01-07,0,120.0,Cancelled
+1007,Karan Singh,North,bad-date,2,75.0,Delivered
+1008,Fatima Khan,West,2026-01-08,2,999999.0,Delivered
+1009,Sanjay Gupta,South,2026-01-08,4,60.0,Pending
+1010,Sanjay Gupta,South,2026-01-08,4,60.0,Pending
+1011,Divya Menon,East,2026-01-09,1,88.0,Delivered
+1012,,North,2026-01-09,2,42.0,Delivered
